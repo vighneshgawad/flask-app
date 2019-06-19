@@ -7,3 +7,5 @@ This is blogging app created using flask
 
 # Where I learn
 * Python Flask Tutorial Series by Corey Schafer (Youtube)
+* Flask Web Development, 2nd Edition by Miguel Grinberg (Book)
+* Python Flask From Scratch Series by Traversy Media (Youtube)
